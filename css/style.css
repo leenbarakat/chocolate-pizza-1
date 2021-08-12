@@ -1,0 +1,172 @@
+body
+{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+header
+{
+    margin-top:35px ;
+    border-bottom: dashed black;
+    padding-bottom:30px ;
+}
+
+body header div#Htext h3
+{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Yellowtail', cursive;
+}
+#logoHeader
+{
+    display: inline-block;
+    
+}
+#HText
+{
+    display: inline-block;
+}
+#HeaderMiniLogos
+{
+    display: inline-block;
+    margin-left: 575px;
+}
+#ExtraTwoLogos
+{
+    display: inline-block;
+    float: right;
+    margin-top: 24px;
+}
+
+main
+{
+    margin-top: 30px;
+}
+#mainText
+{
+    margin-bottom: 30px;
+}
+#mainText h1
+{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+#mainText p#LeftText 
+{
+    color: rgb(134, 134, 134);
+    font-size: 13px;
+    display: inline-block;
+} 
+#mainText img
+{
+    display: inline-block;
+}
+#mainText p#RightText
+{
+    display: inline-block;
+    color: rgb(134, 134, 134);
+}
+
+#CenterImg
+{
+    margin-bottom: 30px;
+}
+#CenterImg img
+{
+    width: 100%;
+    height: 600px;
+}
+
+#MiddleText p
+{
+    font-size: 20px;
+}
+#MiddleText
+{
+    margin-bottom: 30px;
+}
+#ChocoList 
+{
+    width: 100%;
+    height: 300px;
+    border-bottom: dashed black;
+    padding-bottom:30px ;
+}
+
+#ChocoList li {
+margin: auto;
+margin-right: 50px ;
+background-image: url("https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+padding-left: 10px;
+}
+div#two
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+
+#mainTextTwo img
+{
+    display: inline-block;
+    float: left;
+
+}
+div#two div#mainTextTwo h3
+{
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+div#two div#mainTextTwo span
+{   
+    display: inline-block;
+    font-size: 16px;
+    padding-left: 15px;
+
+}
+#mainTextTwo
+{
+    display: inline-block;
+}
+#mainTextTwo span button{
+    
+    margin-left: 700px;
+    margin-bottom: 3px;
+    text-align: right;
+    font-size: 16px;
+    padding: 20px 32px;
+    background-color: #c97266;
+    color: white;
+    border-color: black;
+
+}
+#PrintImage
+{
+    margin-left: 830px;
+}
+#two
+{
+    margin-bottom: 30px;
+}
+
+#FooterImage img
+{
+   text-align:center ;
+   width: 5%;
+   height: 3%;
+}
+footer
+{
+    text-align: center;
+    margin-top: 20px;
+    margin: auto;
+}
+footer 
+{
+    color:rgb(134, 134, 134) ;
+    font-size: 15px;
+    padding: 20px;
+
+}
